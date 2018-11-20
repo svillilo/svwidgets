@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-20 17:28:10</sys_created_on>
+        <sys_id>c6a29f8bdb712300f3ae9235ca9619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_7856_svfirstapp_svrecords.x_7856_svfirstapp.svrecords_user</sys_name>
+        <sys_package display_value="svfirstapp" source="x_7856_svfirstapp">8e52178bdb712300f3ae9235ca96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="svfirstapp">8e52178bdb712300f3ae9235ca96199b</sys_scope>
+        <sys_security_acl display_value="x_7856_svfirstapp_svrecords">c6a29f8bdb712300f3ae9235ca9619e8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c6a29f8bdb712300f3ae9235ca9619eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-20 17:28:10</sys_updated_on>
+        <sys_user_role display_value="x_7856_svfirstapp.svrecords_user" name="x_7856_svfirstapp.svrecords_user">79a2570bdb312300f3ae9235ca96199a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

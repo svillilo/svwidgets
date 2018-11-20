@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="svrecords" max_length="40" name="x_7856_svfirstapp_svrecords" type="collection"/>
+</database>
